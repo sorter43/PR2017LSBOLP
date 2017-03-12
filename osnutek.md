@@ -3,7 +3,7 @@
 ##**Člani:**  
     63120115 | ls6358   | Leo Andrej Štimac  
     63140179 | bo2710   | Blaž Ocepek  
-    63140196 | lp0599   |Lara Pirjevec  
+    63140196 | lp0599   | Lara Pirjevec  
 
 ##*Problem:*
 Anime napoved za uporabnika - Kolikšna je možnost da bo uporabnik X dal animeju Y oceno nad 5/6/7/8?
