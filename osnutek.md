@@ -29,6 +29,8 @@ Anime napoved za uporabnika - Kolikšna je možnost da bo uporabnik X dal animej
 
 Pridobljeno z https://www.kaggle.com/CooperUnion/anime-recommendations-database
 
+To so osnovni podatki, možna vpeljava dodatnih baz ali spremenljivk za izboljšanje natančnosti
+
 ###*Anime.csv:*  
 anime_id - myanimelist.net's unique id identifying an anime  
 name - full name of anime  
@@ -42,5 +44,3 @@ members - number of community members that are in this anime's "group"
 user_id - non identifiable randomly generated user id  
 anime_id - the anime that this user has rated  
 rating - rating out of 10 this user has assigned (-1 if the user watched it but didn't assign a rating)
-
-To so osnovni podatki, možna vpeljava dodatnih baz ali spremenljivk za izboljšanje natančnosti
