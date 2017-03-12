@@ -19,10 +19,10 @@ Anime napoved za uporabnika - Kolikšna je možnost da bo uporabnik X dal animej
 
 ##*Bonus pod-problemi (ni zagotovljeno, da bo prišlo do implementacije):*
  * Dodajanje studia k posameznim animejih  
- ** primerjava studijev  
- ** možnost, da bo nov anime od tega studia uspešnica  
- * Dodajanje epizod in sočasnih statistik o priljubljenosti (implementacija odvisna od zmožnosti dobave novih podatkov [za >90 animejev, z več seznami, z različnimi časi predvajanja, tudi znotraj animejev - sezone])  
- ** primerjava popularnosti animejev skozi čas (obdelovanje podatkov z: http://graphtv.kevinformatics.com/)
+  * primerjava studijev  
+  * možnost, da bo nov anime od tega studia uspešnica  
+ * Dodajanje sočasnih statistik o priljubljenosti epizod  
+  * primerjava popularnosti animejev skozi čas (obdelovanje podatkov z: http://graphtv.kevinformatics.com/)
 
 
 ##**Opis podatkovne baze:**
