@@ -1,4 +1,4 @@
-#**Opis seminarske naloge iz Podatkovnega rudarjenja**
+**#Opis seminarske naloge iz Podatkovnega rudarjenja**
 
 ##**Člani:**  
     63120115 | ls6358   | Leo Andrej Štimac  
