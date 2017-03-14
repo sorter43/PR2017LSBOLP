@@ -6,7 +6,7 @@
     63140196 | lp0599   | Lara Pirjevec  
 
 ##*Problem:*
-Anime napoved za uporabnika - Kolikšna je možnost da bo uporabnik X dal animeju Y oceno nad 5/6/7/8?
+ * Anime napoved za uporabnika - Kolikšna je možnost da bo uporabnik X dal animeju Y oceno nad 5/6/7/8?
 
 ##*Pod-problemi:*  
  * Ocenjevanje uspešnosti posameznega animeja: ratings + members + epizode  
