@@ -12,6 +12,7 @@ vseZanre = {}
 for zanre in filmi:
     zanr = zanre.split(",")
     for z in zanr:
+        z = z.strip()
         if z in vseZanre:
             vseZanre[z] = vseZanre[z]+1
         else:
