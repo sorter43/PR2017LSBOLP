@@ -1,0 +1,4 @@
+rating animeja in stevilo memberjev izgledata povezana, ker večje kot je število memberjev,
+se rating animeja ustali med 7 in 9.
+možna tudi napoved ratinga iz števila memberjev, se poizkušal samo v orange vendar mi je večkrat
+crashal kot pa kaj pametenga pokazal, potrebna uporaba numpy-ja
