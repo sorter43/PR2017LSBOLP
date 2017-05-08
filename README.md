@@ -3,18 +3,18 @@
 Seminarska naloga za predmet Podatkovno rudarjenje na Fakuteti za računalništvo in informatiko
 Maj 2017
 
-##Avtorji
+## Avtorji
 
  * Leo Andrej Štimac
  * Blaž Ocepek
  * Lara Pirjevec
 
-##Naloga
+## Naloga
 
 Za nalogo smo izbrali Kaggle izziv, da le iz uporabniških ratingov napoveš kakšno oceno bi uporabnik dal animeju. Torej za uporabnika ne smemo pričakovati ničesar drugega kot njegove ratinge.  
 Za nalogo nameravamo napovedati, ali bo uporabniku všeč anime, ki ga še ni pogledal. Odvisno od povprečne uporabniške ocene smo si zastavili cilj da napovemo oceno uporabnika, po možnosti z največjo absolutno napako 1.  
 
-##Podatki
+## Podatki
 
 Pri izzicu sta bili dani 2 podatkovni bazi:
  * anime.csv - bazi z podatki o animejih samih
@@ -41,7 +41,7 @@ Pri izzicu sta bili dani 2 podatkovni bazi:
   * TV ima najboljše ocene
   * Movies ima najbolj neenotne ocene
 
-##Razlike od baze pri domači nalogi (movies)
+## Razlike od baze pri domači nalogi (movies)
 
  * Nimamo na voljo časovne oznake, kdaj so uporabniki ocenili anime
  * Manj podatkov:
@@ -50,11 +50,10 @@ Pri izzicu sta bili dani 2 podatkovni bazi:
   * ni studia
  * Demografika je predvidoma drugačna kot pri MovieLens, tako da se lahko pričakuje drugačne ugotovitve pri uporabi istih metod
  
-##Cilji
+## Cilji
 
  * Boljša varianca od pripisovanja povprečne ocene
  * Preverjanje, če vpeljava novih zunanjih baz/spremenljivk izboljša ali poslabša rezultat
   * Baza podatkov animejev skozi čas
   * Vpliv studija na oceno
   
-##Zaključek
