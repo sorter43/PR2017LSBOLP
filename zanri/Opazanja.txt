@@ -1,10 +1,10 @@
-# Blaž:
+ # Blaž:
 
 Iz anime.csv v statistikaZanrov.csv sem izlociu vse zanre in prestel kolikokrat se ponovi posamezen, in izvedel
 da so najbolj pogost.
 Sc-Fi, Comedy, Fantasy, Shounen in Action vsi z vec ko 1000 ponovitvami.
 
-## Priložene datoteke:
+ ## Priložene datoteke:
  * zanri.ows - Orange 3.4 datoteka, ki prikaze razporeditev zanrov
  * PridobitevZanr.py - Python datoteka s katerem sem prestel zanre
  * statistikaZanrov.csv - zgenerirani .cvs file
