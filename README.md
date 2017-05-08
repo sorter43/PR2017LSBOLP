@@ -17,7 +17,7 @@ Za nalogo nameravamo napovedati, ali bo uporabniku všeč anime, ki ga še ni po
 ## Podatki
 
 Pri izzivu sta bili dani 2 podatkovni zbirki:
- * anime.csv - bazi z podatki o animejih samih
+### anime.csv - bazi z podatki o animejih samih
   *  anime_id - unikatni identifikator animeja; numeric
   *  name - ime animeja; string
   *  genre - vsi žanri, katerim je anime pripisan; string: posamezni žanri ločeni z ","
@@ -25,7 +25,7 @@ Pri izzivu sta bili dani 2 podatkovni zbirki:
   *  episodes - število epizod; numeric
   *  rating - poveprečni rating; numeric
   *  members - število ljudi, ki je anime ocenilo; numeric
- * ratings.csv - baza ocen uporabnikov za posamezne pare uporabnik-anime
+### ratings.csv - baza ocen uporabnikov za posamezne pare uporabnik-anime
   *  user_id - unikatni identifikator za uporabnika (in edini način za razlikovanje med uporabniki); numeric
   *  anime_id - unikatni identifikator animeja; numeric
   *  rating - ocena, ki jo je uporabnik dal animeju; numeric
@@ -38,8 +38,8 @@ Po izračunu smo dobili MSAE ~1.8038.
 
 ## Začetna opažanja
 
- * Rating in število memberjev sta sorazmerno povezana.
- * Vrsta medija ima velik vpliv na konsitentnost in velikost ratingov
+### Rating in število memberjev sta sorazmerno povezana.
+### Vrsta medija ima velik vpliv na konsitentnost in velikost ratingov
   *  TV ima najboljše ocene
   *  Movies ima najbolj neenotne ocene
 
