@@ -1,3 +1,0 @@
-iz anime.csv v statistikaZanrov.csv sem izlociu vse zanre in prestel kolikokrat se ponovi posamezen, in izvedel
-da so najbolj pogosti: Sc-Fi, Comedy, Fantasy, Shounen(?) in Action vsi z vec ko 1000 ponovitvami.
-zraven je se orange 3.4 okolje ki prikaze razporeditev zanrov in python s katerem sem prestel zanre
