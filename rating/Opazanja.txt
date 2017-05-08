@@ -4,3 +4,11 @@ Blaž:
 se rating animeja ustali med 7 in 9
  * možna napoved ratinga iz števila memberjev, se poizkušal samo v orange vendar mi je večkrat
 crashal kot pa kaj pametenga pokazal, potrebna uporaba numpy-ja
+ * ratingi animejoev se razlikujejo tudi glede na tip animeja ali je Movie, Music,
+ONA, OVA, Special ali TV
+  * TV ima vecje povprecje kot ostali tipi
+  * pri Movies so ocene najbolje
+neenotne
+
+Priložene datoteke:
+* Orange 3.4 okolje, kjer so te podatki prikazani
