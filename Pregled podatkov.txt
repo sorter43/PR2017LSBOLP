@@ -1,7 +1,0 @@
-podatki so sestavljeni iz rating.csv:
-	vsebuje user_id, anime_id inrating
-	s 7813737 vrsticami, velik je 108,794 KB
-
-in anime.csv:
-	vsebuje anime_id,name, genre, type, episodes, ragin in members
-	s 12294 vrsticami, velik je 915 KB

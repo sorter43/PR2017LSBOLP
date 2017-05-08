@@ -1,0 +1,19 @@
+rating.csv:
+	user_id,
+	anime_id,
+	rating
+	
+	7813737 vrstic
+	velikost 108,794 KB
+
+anime.csv:
+	anime_id,
+	name,
+	genre,
+	type,
+	episodes,
+	rating,
+	members
+	
+	12294 vrsticami
+	velikost: 915 KB
