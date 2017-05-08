@@ -1,4 +1,4 @@
-Blaž:
+#Blaž:
 
  * rating animeja in stevilo memberjev izgledata povezana, ker večje kot je število memberjev,
 se rating animeja ustali med 7 in 9
@@ -10,5 +10,5 @@ ONA, OVA, Special ali TV
   * pri Movies so ocene najbolje
 neenotne
 
-Priložene datoteke:
+##Priložene datoteke:
 * Orange 3.4 okolje, kjer so te podatki prikazani
