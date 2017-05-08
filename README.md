@@ -34,6 +34,8 @@ Pri izzivu sta bili dani 2 podatkovni zbirki:
 
 Želimo dobiti boljši algoritem od pripisovanja povprečne ocene, ki je najbolj preprost algoritem, ki še daje sprejemljive rezultate.
 
+Po izračunu smo dobili MSAE ~1.8038.
+
 ## Začetna opažanja
 
  * Rating in število memberjev sta sorazmerno povezana.
