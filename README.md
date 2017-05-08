@@ -16,7 +16,7 @@ Za nalogo nameravamo napovedati, ali bo uporabniku všeč anime, ki ga še ni po
 
 ## Podatki
 
-Pri izzivu sta bili dani 2 podatkovni bazi:
+Pri izzivu sta bili dani 2 podatkovni zbirki:
  * anime.csv - bazi z podatki o animejih samih
   * anime_id - unikatni identifikator animeja; numeric
   * name - ime animeja; string
