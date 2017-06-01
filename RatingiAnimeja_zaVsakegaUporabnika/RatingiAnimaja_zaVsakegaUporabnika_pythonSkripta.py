@@ -16,7 +16,8 @@ filmi = list()
 
 for row in reader:
     print("berem dat!")
-    filmi.append(row["anime_id"])
+    if ("Sc-Fi" in row["genre"]) or ("Comedy" in row["genre"]) or ("Fantasy" in row["genre"]) or ("Shounen" in row["genre"]) or ("Action" in row["genre"]):
+        filmi.append(row["anime_id"])
 
 
 tabela = {}
@@ -29,22 +30,22 @@ for i in uporabniki:
     if i[1] not in tabelaUp[i[0]]:
         tabelaUp[i[0]][i[1]] = i[2]
 
-prvaV = ","
-for i in range(1,73517):
-    prvaV += str(i)+","
+prvaV = "ID,"
+for i in range(1,1000):
+    prvaV += "user"+str(i)+","
 
 prvaV = prvaV[:-1]
 prvaV += "\n"
 
 print("Zapisovanje v datoteko")
-f = open("oceneAnimeevdvaD.csv" ,"w")
+f = open("RatingiAnimaja_zaVsakegaUporabnika_tabela.csv" ,"w")
 f.write(prvaV)
 vrstica = ""
 
 for i in filmi:
     print("zapisovanje vrstice")
     vrstica = ""+i+","
-    for y in range(0,73517):
+    for y in range(0,1000):
         y = str(y)
         if y in tabelaUp:
             if i in tabelaUp[y]:
