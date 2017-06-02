@@ -50,11 +50,11 @@ for i in filmi:
         if y in tabelaUp:
             if i in tabelaUp[y]:
                 if tabelaUp[y][i] == "-1":
-                    vrstica += "?,"
+                    vrstica += "0,"
                 else:
                     vrstica += str(tabelaUp[y][i]) + ","
             else:
-                vrstica += "?,"
+                vrstica += "0,"
     vrstica = vrstica[:-1]
     vrstica+="\n"
     f.write(vrstica)
